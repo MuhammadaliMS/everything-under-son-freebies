@@ -49,3 +49,20 @@ Complete original PDFs and PNG resource packs. ZIP downloads contain the origina
 | 34 | SOLD | [Planet Earth For Sale listing](sold.pdf) |
 | 35 | REAPER | [Reaper’s Corporate Calendar](reaper.pdf) |
 
+## @zerowing17 episode 02 downloads
+
+Each keyword page provides the original poster PNG, phone wallpaper PNG, and printable PDF supplied for the corresponding reel.
+
+| Keyword | Download page |
+|---|---|
+| CAP | [Your pen has two holes](zerowing17-ep02/CAP/) |
+| GLASSES | [Hubble's glasses](zerowing17-ep02/GLASSES/) |
+| BINGO | [Bureaucracy bingo](zerowing17-ep02/BINGO/) |
+| MESSY | [Permission for a messy desk](zerowing17-ep02/MESSY/) |
+| CHILLS | [Goosebumps sticker pack](zerowing17-ep02/CHILLS/) |
+| HEIST | [The perfect plan](zerowing17-ep02/HEIST/) |
+| PIVOT | [Nintendo's 130-year pivot](zerowing17-ep02/PIVOT/) |
+| TWICE | [Tsutomu Yamaguchi's story](zerowing17-ep02/TWICE/) |
+| CUBE | [Wombat stat card](zerowing17-ep02/CUBE/) |
+| MONDAY | [Venus calendar](zerowing17-ep02/MONDAY/) |
+
